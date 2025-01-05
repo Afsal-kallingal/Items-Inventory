@@ -1,0 +1,37 @@
+[
+   {
+       "model": "item.tax",
+       "fields": {
+           "auto_id": 1,
+           "tax": 0
+       }
+   },
+   {
+       "model": "item.tax",
+       "fields": {
+           "auto_id": 2,
+           "tax": 5
+       }
+   },
+   {
+       "model": "item.tax",
+       "fields": {
+           "auto_id": 3,
+           "tax": 12
+       }
+   },
+   {
+       "model": "item.tax",
+       "fields": {
+           "auto_id": 4,
+           "tax": 18
+       }
+   },
+   {
+       "model": "item.tax",
+       "fields": {
+           "auto_id": 5,
+           "tax": 28
+       }
+   }
+]

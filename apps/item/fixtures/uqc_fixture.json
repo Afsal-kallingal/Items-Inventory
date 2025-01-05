@@ -1,0 +1,162 @@
+[
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 1,
+           "name": "BAG",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 2,
+           "name": "BAL",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 3,
+           "name": "BDL",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 4,
+           "name": "BKL",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 5,
+           "name": "BOU",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 6,
+           "name": "BOX",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 7,
+           "name": "BTL",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 8,
+           "name": "BUN",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 9,
+           "name": "CAN",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 10,
+           "name": "CBM",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 11,
+           "name": "CCM",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 12,
+           "name": "CMS",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 13,
+           "name": "CTN",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 14,
+           "name": "COZ",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 15,
+           "name": "DRM",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 16,
+           "name": "GGK",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 17,
+           "name": "GMS",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 18,
+           "name": "GRS",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 19,
+           "name": "GYD",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   },
+   {
+       "model": "item.uqc",
+       "fields": {
+           "auto_id": 20,
+           "name": "KGS",
+           "organization_id": "95b92cf3-0b34-4c53-aff6-9f1af52e47ef"
+       }
+   }
+]

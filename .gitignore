@@ -1,0 +1,71 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+*.env
+.venv
+
+# Django migrations
+migrations/*.py
+*/migrations/*.py
+*/*/migrations/*.py
+
+!migrations/__init__.py
+!*/migrations/__init__.py
+!*/*/migrations/__init__.py
+
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Coverage reports
+coverage.xml
+*.cover
+*.coverage
+nosetests.xml
+test.xml
+*.egg-info/
+dist/
+build/
+
+# Docker files
+docker-compose.override.yml
+docker-compose.prod.yml
+Dockerfile.dev
+Dockerfile.prod
+.dockerignore
+
+# IDE settings
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Static files and media
+/static/
+media/
+
+# Miscellaneous
+*.tgz
+*.zip
+*.tar.gz
+
+
+#nginx
+nginx/
+
